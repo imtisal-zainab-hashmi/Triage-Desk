@@ -21,7 +21,7 @@ const FASTN_WEBHOOK_URL = "https://webhooks.fastn.dev/prod/triggers/personal_596
 // If this Apps Script is standalone, put your existing CampusFix spreadsheet ID here.
 // Example: "1AbCdEfGhIjKlMnOpQrStUvWxYz123456789"
 // If the script is bound directly to that spreadsheet, leave this blank.
-const SPREADSHEET_ID = "1SrClipJmjoiaP4Pd6Z7eWMmgBBaQRzCwEN5_X7CBn2U";
+const SPREADSHEET_ID = "YOUR_ID";
 
 /**
  * Serves CampusFix.html as the Web App.
@@ -310,7 +310,7 @@ const FASTN_WEBHOOK_URL = "https://webhooks.fastn.dev/prod/triggers/personal_596
 // If this Apps Script is standalone, put your existing CampusFix spreadsheet ID here.
 // Example: "1AbCdEfGhIjKlMnOpQrStUvWxYz123456789"
 // If the script is bound directly to that spreadsheet, leave this blank.
-const SPREADSHEET_ID = "1SrClipJmjoiaP4Pd6Z7eWMmgBBaQRzCwEN5_X7CBn2U";
+const SPREADSHEET_ID = "YOUR_ID";
 
 /**
  * Serves CampusFix.html as the Web App.
