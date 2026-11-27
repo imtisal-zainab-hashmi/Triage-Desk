@@ -25,16 +25,14 @@ digest, built on fastn's Platform Agent
 
   <img src="TriageDesk/TD8.png" alt="Logo" width="350">
   <img src="TriageDesk/TD7.png" alt="Logo" width="350">
-    <img src="TriageDesk/TD6.png" alt="Logo" width="350">
+  <img src="TriageDesk/TD6.png" alt="Logo" width="350">
   <img src="TriageDesk/TD5.png" alt="Logo" width="350">
 </p>
 
 **ScreenShots and Fastn Connectors**
 
 <p align="center">
-
-  <img src="TriageDesk/TD4.png" alt="Logo" width="350">
-    <img src="TriageDesk/TD3.png" alt="Logo" width="350">
+  <img src="TriageDesk/TD3.png" alt="Logo" width="350">
   <img src="TriageDesk/TD2.png" alt="Logo" width="350">
   <img src="TriageDesk/TD1.png" alt="Logo" width="350">
 </p>
