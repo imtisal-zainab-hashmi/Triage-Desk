@@ -16,28 +16,26 @@ digest, built on fastn's Platform Agent
   <img src="TriageDesk/TD13.png" alt="Logo" width="350">
   <img src="TriageDesk/TD12.png" alt="Logo" width="350">
   <img src="TriageDesk/TD10.png" alt="Logo" width="350">
+    <img src="TriageDesk/TD9.png" alt="Logo" width="350">
 </p>
 
 📄 **[Project Documentation (PDF)](TriageDesk_Document(1).pdf)**
 
 <p align="center">
-  <img src="TriageDesk/TD9.png" alt="Logo" width="350">
+
   <img src="TriageDesk/TD8.png" alt="Logo" width="350">
   <img src="TriageDesk/TD7.png" alt="Logo" width="350">
-</p>
-
-**ScreenShots**
-
-<p align="center">
-  <img src="TriageDesk/TD6.png" alt="Logo" width="350">
+    <img src="TriageDesk/TD6.png" alt="Logo" width="350">
   <img src="TriageDesk/TD5.png" alt="Logo" width="350">
-  <img src="TriageDesk/TD4.png" alt="Logo" width="350">
 </p>
 
-**Fastn Connectors**
+**ScreenShots and Fastn Connectors**
 
 <p align="center">
-  <img src="TriageDesk/TD3.png" alt="Logo" width="350">
+
+  <img src="TriageDesk/TD4.png" alt="Logo" width="350">
+    <img src="TriageDesk/TD3.png" alt="Logo" width="350">
   <img src="TriageDesk/TD2.png" alt="Logo" width="350">
   <img src="TriageDesk/TD1.png" alt="Logo" width="350">
 </p>
+
